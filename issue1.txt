@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am issue 1
+=======
+I am issue 1, conflict introduced
+>>>>>>> issue1
